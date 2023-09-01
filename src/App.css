@@ -1,0 +1,11 @@
+/* app.css */
+
+/* Set background image for the entire application */
+body {
+    background-image: url('./components/bg.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center center;
+  }
+  
